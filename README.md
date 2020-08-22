@@ -1,8 +1,10 @@
 # NLP -- Project Series-7 ---> Spam Detector using Various ML Classifier ( NLP )
 
-Aim-> Is to classify whether the given message is either spam or ham message using ML classifiers and NLP techniques
+#### Aim-> 
 
-Methodology->
+Is to classify whether the given message is either spam or ham message using ML classifiers and NLP techniques
+
+#### Methodology->
 
 The dataset used: Kaggle Spam classification dataset
 
@@ -15,5 +17,8 @@ NLP techniques such as tokenization, punctuation removal, stops words removals, 
 Various ML classifers were used for model training such as SVM, KNN, Multinomial Naive Bayes, Decision Tree, Logistic Regression etc
 
 
-Conclusion -> It was found that, Multinomial Naive Bayes achieved the highest accuracy with 93.18%.
+#### Conclusion -> It was found that, Multinomial Naive Bayes achieved the highest accuracy with 93.18%.
+
+
+##### *** If any idea is used from this notebook, kindly inform me / cite my repository ***
 
